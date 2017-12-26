@@ -1,1 +1,1 @@
-include ':app', ':picker_img'
+include ':app', ':picker_img', ':picker_video', ':picker_voice', ':picker_edit', ':picker_choose'

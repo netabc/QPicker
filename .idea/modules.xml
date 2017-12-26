@@ -4,7 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/QPicker.iml" filepath="$PROJECT_DIR$/QPicker.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/picker_choose/picker_choose.iml" filepath="$PROJECT_DIR$/picker_choose/picker_choose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/picker_edit/picker_edit.iml" filepath="$PROJECT_DIR$/picker_edit/picker_edit.iml" />
       <module fileurl="file://$PROJECT_DIR$/picker_img/picker_img.iml" filepath="$PROJECT_DIR$/picker_img/picker_img.iml" />
+      <module fileurl="file://$PROJECT_DIR$/picker_video/picker_video.iml" filepath="$PROJECT_DIR$/picker_video/picker_video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/picker_voice/picker_voice.iml" filepath="$PROJECT_DIR$/picker_voice/picker_voice.iml" />
     </modules>
   </component>
 </project>
